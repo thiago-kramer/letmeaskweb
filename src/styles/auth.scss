@@ -3,6 +3,22 @@
   align-items: stretch;
   height: 100vh;
 
+  .toggle-theme{
+    margin-bottom: 25px;
+  }
+
+  &.dark {
+    background-color: #333;
+
+    .separator {
+      color: #e8e8eb;
+
+      &::before, &::after {
+        background: #e8e8eb;
+      }
+    }
+  }
+
   aside {
     flex: 7;
 
@@ -35,6 +51,7 @@
 
   main {
     flex: 8;
+    flex-direction: column;
 
     padding: 0 32px;
 

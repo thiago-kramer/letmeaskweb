@@ -82,6 +82,10 @@
   }
 }
 
+.dark .question {
+  background: #e8e8eb;
+}
+
 //Configuracao para celulares e smartphones até 480px
 @media screen and (max-width: 480px) {
   .content {
