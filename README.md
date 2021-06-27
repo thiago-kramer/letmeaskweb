@@ -13,9 +13,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- <img alt="Letmeask" src=".github/react-logo.svg" width="32px"> React]
-- <img alt="Letmeask" src=".github/firebase-logo.svg" width="32px"> Firebase
-- <img alt="Letmeask" src=".github/typescript.svg" width="32px"> TypeScript
+- <img alt="Letmeask" src=".github/react-logo.png" width="32px"> React]
+- <img alt="Letmeask" src=".github/firebase-logo.png" width="32px"> Firebase
+- <img alt="Letmeask" src=".github/typescript.png" width="32px"> TypeScript
 
 ## Project
 
