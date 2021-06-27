@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/app.svg" />
+    <img alt="Letmeask" src=".github/app.png" />
 </h1>
 
 <br>
