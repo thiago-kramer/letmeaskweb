@@ -19,4 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Project
 
-Desenvolvida durante a **[Next Level Week Together](https://nextlevelweek.com/)** e aprimorado posteriormente, o letMeAsk é um protótipo de perguntas e respostas simples promovendo a interação entre influenciadores e seu publico.
+Desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)** e aprimorado posteriormente, o letMeAsk é um protótipo de perguntas e respostas simples promovendo a interação entre influenciadores e seu publico.
